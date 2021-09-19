@@ -4,6 +4,7 @@ import React from 'react';
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
+    <body>
     <ul className="nav nav-tabs">
       {/* <li className="nav-item">
         <a
@@ -48,6 +49,15 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    <footer>
+ <h3>Contact Me</h3>
+    <small><a href = "mailto: arnoldlee60@gmail.com">Email</a>    ||    
+            <a href="https://www.linkedin.com/in/arnoldlee1/">linkedIn</a>    ||    <a href="https://github.com/Arnoldlee60">Github</a>    ||    
+            <a href="tel:9098098640">(909) 809-8640</a>
+            </small>
+  
+  </footer>
+  </body>
   );
 }
 

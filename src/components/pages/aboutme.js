@@ -11,9 +11,11 @@ export default function About() {
     <h4 class="mb-3">I am a 24 year old veteran currently a Junior at the University of Texas at San Antonio and a student in the UTSA Coding Bootcamp.
 </h4>
     {/* <a class="btn btn-primary" href="" role="button">Call to action</a> */}
+    
   </div>
 
 </header>
+
   );
 }
 
