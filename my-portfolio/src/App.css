@@ -44,6 +44,7 @@
 .navbar-item{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
+
 }
 h1{
   text-align: center;
@@ -67,6 +68,6 @@ h2{
   width: 500px;
 }
 
-
-
-
+h3{
+  margin-left: 20px;
+}
